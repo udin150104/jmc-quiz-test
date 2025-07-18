@@ -1,0 +1,1 @@
+function o(){const t=document.querySelector("#togglePassword"),e=document.querySelector("#password");t&&t.addEventListener("click",function(){const s=e.getAttribute("type")==="password"?"text":"password";e.setAttribute("type",s),this.classList.toggle("bi-eye"),this.classList.toggle("bi-eye-slash")})}export{o as init};

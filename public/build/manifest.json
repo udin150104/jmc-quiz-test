@@ -1,0 +1,103 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-Bc7-DBaw.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-BeopsB42.woff",
+    "src": "resources/css/fonts/bootstrap-icons.woff"
+  },
+  "resources/css/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-mSm7cUeB.woff2",
+    "src": "resources/css/fonts/bootstrap-icons.woff2"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-JUZwFoSi.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/pages/auth.js",
+      "resources/js/pages/form_barangmasuk.js",
+      "resources/js/pages/indexbarangmasuk.js",
+      "resources/js/pages/kabupaten.js",
+      "resources/js/pages/kategori.js",
+      "resources/js/pages/laporankabupaten.js",
+      "resources/js/pages/laporanprovinsi.js",
+      "resources/js/pages/manajemenuser.js",
+      "resources/js/pages/penduduk.js",
+      "resources/js/pages/provinsi.js",
+      "resources/js/pages/subkategori.js"
+    ],
+    "css": [
+      "assets/app-fr80EVxF.css"
+    ]
+  },
+  "resources/js/pages/auth.js": {
+    "file": "assets/auth-B1jTbTt1.js",
+    "name": "auth",
+    "src": "resources/js/pages/auth.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/form_barangmasuk.js": {
+    "file": "assets/form_barangmasuk-Bk1zUzX_.js",
+    "name": "form_barangmasuk",
+    "src": "resources/js/pages/form_barangmasuk.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/indexbarangmasuk.js": {
+    "file": "assets/indexbarangmasuk-CwmYCuF1.js",
+    "name": "indexbarangmasuk",
+    "src": "resources/js/pages/indexbarangmasuk.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/kabupaten.js": {
+    "file": "assets/kabupaten-CJRERQXD.js",
+    "name": "kabupaten",
+    "src": "resources/js/pages/kabupaten.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/kategori.js": {
+    "file": "assets/kategori-B3e_ZNWM.js",
+    "name": "kategori",
+    "src": "resources/js/pages/kategori.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/laporankabupaten.js": {
+    "file": "assets/laporankabupaten-DI_6weBn.js",
+    "name": "laporankabupaten",
+    "src": "resources/js/pages/laporankabupaten.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/laporanprovinsi.js": {
+    "file": "assets/laporanprovinsi-Du_2S7eE.js",
+    "name": "laporanprovinsi",
+    "src": "resources/js/pages/laporanprovinsi.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/manajemenuser.js": {
+    "file": "assets/manajemenuser-gW9o1l8W.js",
+    "name": "manajemenuser",
+    "src": "resources/js/pages/manajemenuser.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/penduduk.js": {
+    "file": "assets/penduduk-DXurxheo.js",
+    "name": "penduduk",
+    "src": "resources/js/pages/penduduk.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/provinsi.js": {
+    "file": "assets/provinsi-MXUyJoLR.js",
+    "name": "provinsi",
+    "src": "resources/js/pages/provinsi.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/pages/subkategori.js": {
+    "file": "assets/subkategori-BN8YJ8lq.js",
+    "name": "subkategori",
+    "src": "resources/js/pages/subkategori.js",
+    "isDynamicEntry": true
+  }
+}
