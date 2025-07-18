@@ -1,10 +1,6 @@
-## Test Kemampuan Dasar I
-Jawaban untuk `Soal Tes Online Programmer JMC IT Consultant.pdf`
-
-
-### Dokumen Soal 
-file : `Soal Tes Online Programmer JMC IT Consultant.pdf`
-
+# Quiz JMC IT Consultant
+---
+## Jawaban Quiz Test Kemampuan Dasar I dan II
 
 ### Tech Stack
 ```bash
@@ -32,4 +28,21 @@ Distributor ID:	Linuxmint
 Description:	Linux Mint 21.3
 Release:	21.3
 Codename:	virginia
+```
+
+### installasi 
+```php
+// ---- clone ----------
+git clone https://github.com/udin150104/jmc-quiz-test.git 
+// atau
+git clone git@github.com:udin150104/jmc-quiz-test.git
+
+// settings 
+cp .env.example .env 
+composer install
+npm install && npm run build
+php artisan storage:link
+php artisan key:generate
+php artisan optimize:clear
+php artisan serve
 ```
