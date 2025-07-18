@@ -1,4 +1,7 @@
 *
 !private/
+!private/lampiran_barang/
 !public/
+!public/pdf/
+!public/pdf/**
 !.gitignore
