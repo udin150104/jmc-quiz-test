@@ -40,9 +40,10 @@ git clone git@github.com:udin150104/jmc-quiz-test.git
 // settings 
 cp .env.example .env 
 composer install
-npm install && npm run build
 php artisan storage:link
 php artisan key:generate
+php artisan migrate
+php artisan db:seed
 php artisan optimize:clear
 php artisan serve
 ```
